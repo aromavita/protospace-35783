@@ -1,0 +1,6 @@
+class Prototype < ApplicationRecord
+end
+
+
+
+
